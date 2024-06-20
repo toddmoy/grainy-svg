@@ -24,7 +24,8 @@ export default function Home() {
           width: '100vw',
           height: '100vh',
           background: 'url(/noise.svg)',
-          mixBlendMode: 'overlay',
+          backgroundRepeat: 'repeat',
+          mixBlendMode: 'color-burn',
         }}
       />
     </main>
