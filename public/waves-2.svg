@@ -35,7 +35,7 @@
         stitchTiles="stitch"
       />
       <feColorMatrix type="saturate" values="0" result="grayscaleNoise" />
-      <feBlend in="SourceGraphic" in2="grayscaleNoise" mode="multiply" />
+      <feBlend in="SourceGraphic" in2="grayscaleNoise" mode="hard-light" />
     </filter>
     <linearGradient
       id="paint0_linear_2_82"
