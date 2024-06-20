@@ -8,8 +8,6 @@ export default function Home() {
           right: 0,
           top: 0,
           bottom: 0,
-          width: '100vw',
-          height: '100vh',
           background: 'url(/waves-2.svg)',
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
