@@ -24,3 +24,10 @@ In `/public/waves-2.svg`:
   <feBlend in="SourceGraphic" in2="grayscaleNoise" mode="hard-light" />
 </filter>
 ```
+
+---
+
+## Notes
+
+- Deployed to [Vercel](vercel.com)
+- Start the dev server `npm run dev`
