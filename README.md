@@ -2,6 +2,8 @@
 
 A quick experiment to add noise to an image using SVG filters.
 
+![](./public/waves-2.svg)
+
 In `/public/waves-2.svg`:
 
 ```
@@ -24,7 +26,6 @@ In `/public/waves-2.svg`:
   <feBlend in="SourceGraphic" in2="grayscaleNoise" mode="hard-light" />
 </filter>
 ```
-![](./public/waves-2.svg)
 
 ---
 
