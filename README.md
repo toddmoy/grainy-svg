@@ -24,6 +24,7 @@ In `/public/waves-2.svg`:
   <feBlend in="SourceGraphic" in2="grayscaleNoise" mode="hard-light" />
 </filter>
 ```
+![](./public/waves-2.svg)
 
 ---
 
